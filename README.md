@@ -1,2 +1,2 @@
 # Calculator
-HTML made calc with .js
+HTML made calculator with JS/CSS/HTML language usage. 
